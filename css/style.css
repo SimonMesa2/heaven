@@ -1,0 +1,72 @@
+header{
+    display: flex;
+    justify-content: center;
+    background-color: #0f0d0e;
+}
+.logo{
+
+}
+
+img{
+    width: 220px;
+    height: 160px;
+    
+}
+body{
+    
+}
+
+ul{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+ul li{ 
+    list-style: none;
+    margin-left: 90px;
+
+}
+
+a{
+    text-decoration: none;
+    color: #adff2f;
+    font-family: 'Gabarito', cursive;
+}
+a:hover{
+color: ;
+background-color: black;
+border-radius: 5px;
+}
+
+footer .abajo{
+text-align: center;
+}
+
+section .formulario{
+    margin: auto;
+    text-align: center;
+       
+}
+#uno{
+    width: 80%;
+    height: 200px;
+    background-color: #adff2f;
+    margin: auto;
+}
+
+#dos{
+    width: 80%;
+    height: 200px;
+    background-color: #0f0d0e;
+    margin: auto;
+}
+
+#tres{
+    width: 80%;
+    height: 200px;
+    background-color: #adff2f;
+    margin: auto;
+}
+
